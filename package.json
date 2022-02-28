@@ -16,7 +16,7 @@
     "lint": "vue-cli-service lint",
     "release": "standard-version"
   },
-  "dependencies": {
+  "peerDependencies": {
     "core-js": "^3.15.0",
     "vue": "^3.1.1"
   },
